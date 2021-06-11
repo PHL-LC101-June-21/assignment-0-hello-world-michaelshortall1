@@ -1,3 +1,2 @@
-const hello = require('./hello');
-
-console.log(hello());
+const hello = ("Hello, world!");
+console.log(hello);
